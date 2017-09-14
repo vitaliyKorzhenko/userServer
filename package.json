@@ -1,0 +1,28 @@
+{
+  "name": "user_server",
+  "version": "1.0.0",
+  "description": "test work",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliyKorzhenko/userServer.git"
+  },
+  "author": "VitaliyKorzhenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitaliyKorzhenko/userServer/issues"
+  },
+  "homepage": "https://github.com/vitaliyKorzhenko/userServer#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "jsonfile": "^4.0.0",
+    "promise": "^8.0.1"
+  },
+  "devDependencies": {}
+}
